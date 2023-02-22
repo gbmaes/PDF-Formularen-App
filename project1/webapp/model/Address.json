@@ -1,0 +1,12 @@
+{
+    "Name": "SAP SE",
+    "ReiseArt": "Buonnapizza Str",
+    "Abfahrtsort": "16",
+    "Zwischenort": "69190",
+    "Zielort": "Roma",
+    "ZweckDerReise": "Italy",
+    "Von": "http://www.sap.com",
+    "Bis": "@sap",
+    "Kostenstelle" : "+49 6227 747474",
+    "Kostentraeger" : "info@sap.com"
+}
